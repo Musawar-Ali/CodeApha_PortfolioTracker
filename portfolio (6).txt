@@ -1,0 +1,7 @@
+Portfolio Summary
+Generated: 2025-09-18T17:13:11.123233
+
+AMZN   qty=   5 price=  100.00 => value=    500.00
+GOOGL  qty=  23 price=  125.00 => value=   2875.00
+
+Total: 3375.00

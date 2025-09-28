@@ -5,7 +5,7 @@ Simple stock portfolio tracker using a hardcoded price dictionary.
 Usage examples:
     python stock_tracker.py              # interactive input
     python stock_tracker.py --save csv   # saves to portfolio.csv
-Author: Your Name
+Author: Musawar Ali 
 """
 
 # Paste your original tracker code here

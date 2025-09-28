@@ -15,5 +15,7 @@ A simple stock portfolio tracker built in Python as part of  CodeAlpha internshi
    git clone https://github.com/Musawar-Ali/CodeAlpha_PortfolioTracker.git
 
 Bash
+
+
 python stock_tracker.py --save both
 
